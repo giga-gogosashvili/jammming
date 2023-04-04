@@ -1,4 +1,4 @@
-const clientId = 'fba6a0b5c5684eeb8f1200bf90182879';
+const clientId = '';
 const redirectUri = 'http://giga-jammming.surge.sh';
 let accessToken;
 
