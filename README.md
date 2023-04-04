@@ -1,4 +1,4 @@
-# Giga's Spotify Jammming
+# Spotify Jammming
 **Jammming lets user find songs in Spotify (after logging in) and add them to new created playlist.**
 
 App was deployed by [Surge](https://surge.sh/) and is available in [here](http://giga-jammming.surge.sh).
